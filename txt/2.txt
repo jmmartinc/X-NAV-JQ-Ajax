@@ -1,0 +1,2 @@
+Este texto se muestra una vez se ha pulsado el botón.
+
