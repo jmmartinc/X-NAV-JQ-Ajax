@@ -7,7 +7,6 @@ $(function(){
         }).done(function(text){
             $("#text").html(text);
         });
-        
     });
     $("#button").click(function() {
         $.ajax({
