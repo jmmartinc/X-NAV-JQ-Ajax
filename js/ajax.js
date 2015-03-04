@@ -5,7 +5,7 @@ $(function(){
             url : "txt/1.txt",
             cache: false
         }).done(function(text){
-                $("#text").html(text);
+            $("#text").html(text);
         });
         
     });
@@ -15,8 +15,7 @@ $(function(){
             url : "txt/2.txt",
             cache: false
         }).done(function(text){
-                $("#text").html(text);
+            $("#text").html(text);
         });
-        
     });
 });
